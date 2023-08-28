@@ -36,4 +36,10 @@ iframe#tela{
     width: 267px;
     height: 470px;
 }
+section > img{
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    float: right;
+}
 
